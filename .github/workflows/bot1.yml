@@ -18,4 +18,4 @@ jobs:
       - name: Install Puppeteer
         run: npm install puppeteer
       - name: Visit site and wait 1 hour
-        run: node chatgpt.js
+        run: node bot.js
